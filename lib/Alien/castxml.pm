@@ -7,6 +7,9 @@ use base qw( Alien::Base );
 
 # ABSTRACT: Find or build castxml
 # VERSION
+# ALIEN SYNOPSIS
+# ALIEN DESCRIPTION
+# ALIEN SEE ALSO
 
 1;
 
