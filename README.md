@@ -1,4 +1,4 @@
-# Alien::castxml [![Build Status](https://travis-ci.org/PerlFFI/Alien-castxml.svg)](http://travis-ci.org/PerlFFI/Alien-castxml) ![macos](https://github.com/PerlFFI/Alien-castxml/workflows/macos/badge.svg)
+# Alien::castxml ![linux](https://github.com/PerlFFI/Alien-castxml/workflows/linux/badge.svg) ![macos](https://github.com/PerlFFI/Alien-castxml/workflows/macos/badge.svg)
 
 Find or build castxml
 
