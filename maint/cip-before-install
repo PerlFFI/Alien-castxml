@@ -10,3 +10,4 @@ else
   cip sudo apt-get install clang g++ llvm-11-dev libclang-11-dev
 fi
 
+cip exec dzil-cpanm -n Alien::Build::Plugin::Download::GitHub
