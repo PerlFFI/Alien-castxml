@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.02      2022-09-25 18:55:36 -0600
   - Use Download::GitHub plugin because Download no longer
     works with the GitHub release page (gh#7)
 
