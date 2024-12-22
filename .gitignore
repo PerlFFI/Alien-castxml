@@ -2,4 +2,7 @@ Alien-castxml-*
 /.build/
 *.swp
 
-
+/Alien-castxml-*
+/.build
+*.old
+*.orig
